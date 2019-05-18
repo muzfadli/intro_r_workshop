@@ -12,12 +12,12 @@ Install R, RSudio and Tex :
 
 Install packages from Rstudio by enter in the console of Rstudio
 
-$ install.packages(markdown)
+    $ install.packages(markdown)
 
-$ install.packages(knitr)
+    $ install.packages(knitr)
 
 you can load now the packages
 
-$ library(markdown)
+    $ library(markdown)
 
-$ library(knitr)
+    $ library(knitr)
