@@ -6,7 +6,7 @@ February 28 and March 1, 2017
 
 ## TO BE INSTALL BEFORE THE WORKSHOP
 
-Install R, RSudio and Tex :
+Install R, RStudio and Tex :
 
 [For Windows users](http://www.reed.edu/data-at-reed/software/R/r_studio_pc.html)
 
